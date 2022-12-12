@@ -1,0 +1,10 @@
+*{
+    /* padding: 2vh 2vw 2vh 2vw; */
+    margin: 2vh 2vw 2vh 2vw;
+}
+
+.profile{
+    margin: 190px 0px 0px 50px;
+    height: 190px;
+    width: 190px;
+}
