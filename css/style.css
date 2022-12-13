@@ -1,10 +1,32 @@
 *{
     /* padding: 2vh 2vw 2vh 2vw; */
     margin: 2vh 2vw 2vh 2vw;
+ 
 }
 
 .profile{
     margin: 190px 0px 0px 50px;
     height: 190px;
     width: 190px;
+}
+
+.skills{
+    width: 990px;
+    height: 200px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    text-align: center;
+    word-wrap: break-word;
+    
+}
+.skills-text{
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.titles{
+    display: flex;
+    justify-content: center;
+
 }
