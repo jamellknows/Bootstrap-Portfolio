@@ -18,26 +18,24 @@ This weeks module challenge was to build a portfolio page using bootstrap.
 
 ## Usage 
 
-THis is the second module challenge and is to be used as a portfolio website 
-https://jamellknows.github.io/bootstrap-portfolio
+THis is the third module challenge and is a portfolio website made using Bootstrap. 
+https://jamellknows.github.io/Bootstrap-Portfolio
 
 * Mobile Screen
 
-![mobile screen screenshot](./starter/images/390px.png)
+![mobile screen screenshot](./images/iPhone12Pro.png)
 
 * Tablet Screen 
 
-![tablet screen screenshot](./starter/images/768px.png)
+![tablet screen screenshot](./images/iPadAir.png)
 
-* Small Laptop Screen
+* Laptop Screen
 
-![small laptop screen screenshot](./starter/images/1291px.png)
+![small laptop screen screenshot](./images/NestHub.png)
 
 
 
-## Credits
 
-Starter file provided by edX Boot Camps LLC
 
 
 ## License
